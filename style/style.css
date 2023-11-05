@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: red; 
+}
+canvas{
+    background: #f7ff8a;
+    background: linear-gradient(#8A2387,#E94057,#F27121);
+    display: block;
+    margin: 0 auto;
+}
+h1{
+    color: #f744bb;
+    text-align: center;
+    font-family: monospace;
+    margin:50px;
+}
